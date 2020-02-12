@@ -26,5 +26,6 @@
 | Nazwa użytkownika | Ranga | Obowiązki | Discord
 |--|--|-----|---|
 | [kerszer](https://mrucznik-rp.pl/user/10714-kerszer/) | **Asystent** | Pomoc oraz twórczość na forum | kerszer#8254
+| [Fuzzy](https://mrucznik-rp.pl/user/20112-fuzzy/) | Pomocnik | Pomoc oraz twórczość na forum | Fuzzy#7704
 
 
