@@ -11,8 +11,7 @@
 ## Media społecznościowe
 | Nazwa użytkownika | Ranga | Obowiązki | Discord
 |--|--|-----|---|
-| [Songo](https://mrucznik-rp.pl/user/4641-songo/) | **Asystent**  | Opieka nad mediami społecznościowymi | SONGO#3806
-| [PRT](https://mrucznik-rp.pl/user/267-prt/) | Pomocnik | Redaktor | PRT#0001
+| [PRT](https://mrucznik-rp.pl/user/267-prt/) | **Asystent**  | Opieka nad mediami społecznościowymi | PRT#0001
 ## Komunikatory
 | Nazwa użytkownika | Ranga | Obowiązki | Discord
 |--|--|-----|---|
